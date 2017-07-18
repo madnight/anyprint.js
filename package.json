@@ -1,0 +1,24 @@
+{
+  "name": "anyprint",
+  "version": "1.0.0",
+  "description": "You don't like the use of console.log? Use anyprint you like! Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madnight/anyprint.js.git"
+  },
+  "keywords": [
+    "console",
+    "print",
+    "anyprint"
+  ],
+  "author": "Fabian Beuke <mail@beuke.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madnight/anyprint.js/issues"
+  },
+  "homepage": "https://github.com/madnight/anyprint.js#readme"
+}
